@@ -3,4 +3,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzidanrifqirtkj&show_icons=true&locale=en&layout=compact" alt="mzidanrifqirtkj" /></p>
 
-![snake animation](https://github.com/mzidanrifqirtkj/mzidanrifqirtkj/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/mzidanrifqirtkj/mzidanrifqirtkj/blob/output/github-contribution-grid-snake.gif)
