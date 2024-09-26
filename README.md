@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Muhammad Zidan Rifqi Ramadhan</h1>
 <h3 align="center">A passionate backEnd developer from Indonesia</h3>
 
+- 🌱 I’m currently learning **Go language, Laravel, React JS, Node JS**, but often learn **Laravel**
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzidanrifqirtkj&show_icons=true&locale=en&layout=compact" alt="mzidanrifqirtkj" /></p>
 
 <picture>
