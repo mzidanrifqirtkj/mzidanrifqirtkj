@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--About-->
-- :school: I am a `Junior` Software Engineer and still studying at `Universitas Akprind Indonesia`
+- :school: I am a and `Junior` Software Engineer and a Fresh Graduate at `Universitas Akprind Indonesia`
 - 🌱 I’m currently learning **Go language, Laravel, React JS, Node JS**, but often learn **Laravel**
 - 💡 &nbsp;I like to explore new technologies and develop software solutions.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17pTJB4CRJMM-c8xEHbp-Ch6tmNA1xuJw/view?usp=sharing). I'm open to feedback and suggestions!
