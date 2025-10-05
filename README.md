@@ -1,14 +1,17 @@
 <h1 align="center">Hi, I'm M Zidan Rifqi R</h1>
-<h3 align="center">A passionate Full-Stack developer from Magelang, Indonesia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Magelang, Indonesia</h3>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--About-->
-- :school: I am a and `Junior` Software Engineer and a Fresh Graduate at `Universitas Akprind Indonesia`
-- 🌱 I’m currently learning **Go language, Laravel, React JS, Node JS**, but often learn **Laravel**
-- 💡 &nbsp;I like to explore new technologies and develop software solutions.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17pTJB4CRJMM-c8xEHbp-Ch6tmNA1xuJw/view?usp=sharing). I'm open to feedback and suggestions!
+<!-- About -->
+- 🎓 I’m a `Full-Stack Developer` and a **Fresh Graduate** from *Universitas AKPRIND Yogyakarta*, majoring in Informatics.  
+- 💻 Currently working as a **Freelance Developer**, building and maintaining web applications using **Laravel**, **React**, **Inertia.js**, **shadcn/ui**, and **MySQL**.  
+- 🌱 Actively learning **Go** and **Node.js** to strengthen backend development skills and expand my technical scope.  
+- 💡 Passionate about creating efficient, human-centered digital solutions and exploring modern web technologies.  
+- 🧩 Experienced in both individual and team-based projects through internships, MSIB programs, and freelance work.  
+- 💼 Open to new **job opportunities or collaborations** — check out [**My Resume**](https://drive.google.com/file/d/17pTJB4CRJMM-c8xEHbp-Ch6tmNA1xuJw/view?usp=sharing).  
+- 💬 Always happy to discuss ideas, share knowledge, and connect with fellow developers.  
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -43,10 +46,11 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,cpp,java,laravel,bootstrap,kotlin,tailwind,figma,firebase,github,git,linux,windows,md,mongodb,mysql,postgres,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go,docker,nodejs,react,laravel,bootstrap,tailwind,figma,github,git,linux,windows,md,mysql,postgres,mongodb,firebase,postman,vscode&perline=14" />
   </a>
 </p>
 
