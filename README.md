@@ -10,7 +10,7 @@
 - 🌱 Actively learning **Go** and **Node.js** to strengthen backend development skills and expand my technical scope.  
 - 💡 Passionate about creating efficient, human-centered digital solutions and exploring modern web technologies.  
 - 🧩 Experienced in both individual and team-based projects through internships, MSIB programs, and freelance work.  
-- 💼 Open to new **job opportunities or collaborations** — check out [**My Resume**](https://https://drive.google.com/file/d/1_eW3Muli7WvG7JRq_W-tjnPsHm9zpkvq/view?usp=sharing).  
+- 💼 Open to new **job opportunities or collaborations** — check out [**My Resume**](https://drive.google.com/file/d/1_eW3Muli7WvG7JRq_W-tjnPsHm9zpkvq/view?usp=sharing).  
 - 💬 Always happy to discuss ideas, share knowledge, and connect with fellow developers.  
 
 <!--horizontal divider(gradiant)-->
