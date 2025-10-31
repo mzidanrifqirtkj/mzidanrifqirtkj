@@ -50,8 +50,8 @@
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go,docker,nodejs,react,laravel,bootstrap,tailwind,figma,github,git,linux,windows,md,mysql,postgres,mongodb,firebase,postman,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go,docker,nodejs,react,laravel,bootstrap,tailwind,figma,github,git,linux,windows,md,mysql,postgres,mongodb,firebase,postman,vscode,flutter,dart&perline=14" />
+</a>
 </p>
 
 <!--horizontal divider(gradiant)-->
