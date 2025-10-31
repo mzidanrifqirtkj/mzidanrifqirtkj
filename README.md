@@ -14,13 +14,13 @@
 - 💬 Always happy to discuss ideas, share knowledge, and connect with fellow developers.  
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!--- trophy (start) -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzidanrifqirtkj&show_icons=true&locale=en&layout=compact" alt="mzidanrifqirtkj" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzidanrifqirtkj&show_icons=true&locale=en&layout=compact" alt="mzidanrifqirtkj" /></p> -->
 
 <!--- Table stats & Trophy (start) -->
-<p align="center">
+<!-- <p align="center">
   <br>
 <table align="center" style="border: none;">
 <tr>
@@ -34,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
-</table>
+</table> -->
 <!--- stats (end) -->
 
 <!--horizontal divider(gradiant)-->
