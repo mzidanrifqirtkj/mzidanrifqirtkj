@@ -5,12 +5,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About -->
-- 🎓 I’m a `Full-Stack Developer` and a **Fresh Graduate** from *Universitas AKPRIND Yogyakarta*, majoring in Informatics.  
+- 🎓 I’m a `Full-Stack Developer` and a **Fresh Graduate** from *Universitas Akprind Indoneisa*, majoring in Information Technology.  
 - 💻 Currently working as a **Freelance Developer**, building and maintaining web applications using **Laravel**, **React**, **Inertia.js**, **shadcn/ui**, and **MySQL**.  
 - 🌱 Actively learning **Go** and **Node.js** to strengthen backend development skills and expand my technical scope.  
 - 💡 Passionate about creating efficient, human-centered digital solutions and exploring modern web technologies.  
 - 🧩 Experienced in both individual and team-based projects through internships, MSIB programs, and freelance work.  
-- 💼 Open to new **job opportunities or collaborations** — check out [**My Resume**](https://drive.google.com/file/d/1_eW3Muli7WvG7JRq_W-tjnPsHm9zpkvq/view?usp=sharing).  
+- 💼 Open to new **job opportunities or collaborations** — check out [**My Resume**](https://drive.google.com/file/d/1_zxeXvuxASX9bpRaoJPrMpQTn1yyZTX9/view?usp=sharing).  
 - 💬 Always happy to discuss ideas, share knowledge, and connect with fellow developers.  
 
 <!--horizontal divider(gradiant)-->
